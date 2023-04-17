@@ -1,0 +1,11 @@
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\bin\Debug\Bir kelime Bir islem.exe.config
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\bin\Debug\Bir kelime Bir islem.exe
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\bin\Debug\Bir kelime Bir islem.pdb
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir kelime Bir islem.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir kelime Bir islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir_kelime_Bir_islem.Form1.resources
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir_kelime_Bir_islem.Properties.Resources.resources
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir kelime Bir islem.csproj.GenerateResource.cache
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir kelime Bir islem.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir kelime Bir islem.exe
+C:\Users\Ilayda\Desktop\c#\Bir kelime Bir islem\Bir kelime Bir islem\obj\Debug\Bir kelime Bir islem.pdb
